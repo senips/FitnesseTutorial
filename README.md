@@ -14,6 +14,7 @@ Test Control.Net  - '' is a light weight automation framework for Windows Native
 
 * Download this repo entirely as a zip 
 * Extract to your local folder
+ * ![](https://github.com/senips/FitnesseTutorial/blob/master/FitNesseRoot/files/images/examplesfolder.jpg)
 * Just run the file called StartFitnesse.bat
  * Assumption: you have Java Run time or JDK installed on your machine
 * Open a browser and type:  http://localhost:1234
