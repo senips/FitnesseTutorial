@@ -1,0 +1,8 @@
+
+!3 !-slim:.\fitsharp40\Runner.exe-!
+|'''Date: '''| 7:13:17 PM (EST) on Friday, January 2, 2015 |
+|'''Test Page: '''|.FrontPage.TestControlTestSuite|
+|'''Command: '''| !-.\fitsharp40\Runner.exe -r fitSharp.Slim.Service.Runner C:\Users\senips\Source\FitnesseTutorial\build\TestControl.Core.dll;C:\Users\senips\Source\FitnesseTutorial\build\TestControl.Net.dll;C:\Users\senips\Source\FitnesseTutorial\build\TestControlFixtures.dll 8086-! |
+|'''Exit code: '''| 1 |
+|'''Time elapsed: '''| 0.833 seconds |
+

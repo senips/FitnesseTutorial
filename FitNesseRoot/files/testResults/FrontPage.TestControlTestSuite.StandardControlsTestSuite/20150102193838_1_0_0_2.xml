@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20140901</FitNesseVersion>
+  <rootPath>FrontPage.TestControlTestSuite.StandardControlsTestSuite</rootPath>
+    <pageHistoryReference>
+    <name>FrontPage.TestControlTestSuite.SuiteSetUp</name>
+    <date>01/02/2015 19:38:38</date>
+    <pageHistoryLink>FrontPage.TestControlTestSuite.SuiteSetUp?pageHistory&amp;resultDate=20150102193838</pageHistoryLink>
+    <counts>
+      <right>0</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>68</runTimeInMillis>
+  </pageHistoryReference>
+    <pageHistoryReference>
+    <name>FrontPage.TestControlTestSuite.StandardControlsTestSuite.Example01TextBox</name>
+    <date>01/02/2015 19:38:38</date>
+    <pageHistoryLink>FrontPage.TestControlTestSuite.StandardControlsTestSuite.Example01TextBox?pageHistory&amp;resultDate=20150102193838</pageHistoryLink>
+    <counts>
+      <right>3</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>1</exceptions>
+    </counts>
+    <runTimeInMillis>5384</runTimeInMillis>
+  </pageHistoryReference>
+    <pageHistoryReference>
+    <name>FrontPage.TestControlTestSuite.StandardControlsTestSuite.Example02ButtonControl</name>
+    <date>01/02/2015 19:38:43</date>
+    <pageHistoryLink>FrontPage.TestControlTestSuite.StandardControlsTestSuite.Example02ButtonControl?pageHistory&amp;resultDate=20150102193843</pageHistoryLink>
+    <counts>
+      <right>1</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>1</exceptions>
+    </counts>
+    <runTimeInMillis>2740</runTimeInMillis>
+  </pageHistoryReference>
+    <finalCounts>
+    <right>1</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>2</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>8864</totalRunTimeInMillis>
+
+</suiteResults>
+

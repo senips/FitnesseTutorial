@@ -1,0 +1,3 @@
+!3 2.launch the application
+|script| Example Fixture |
+|launch application|

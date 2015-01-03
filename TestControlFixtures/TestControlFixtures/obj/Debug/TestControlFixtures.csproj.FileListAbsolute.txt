@@ -2,3 +2,4 @@ C:\Users\senips\Source\FitnesseTutorial\build\TestControlFixtures.dll
 C:\Users\senips\Source\FitnesseTutorial\build\TestControlFixtures.pdb
 C:\Users\senips\Source\FitnesseTutorial\TestControlFixtures\TestControlFixtures\obj\Debug\TestControlFixtures.dll
 C:\Users\senips\Source\FitnesseTutorial\TestControlFixtures\TestControlFixtures\obj\Debug\TestControlFixtures.pdb
+C:\Users\senips\Source\FitnesseTutorial\TestControlFixtures\TestControlFixtures\obj\Debug\TestControlFixtures.csprojResolveAssemblyReference.cache

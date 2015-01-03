@@ -1,7 +1,6 @@
 C:\Users\senips\Source\FitnesseTutorial\build\WinFormAutomationDemo.exe.config
 C:\Users\senips\Source\FitnesseTutorial\build\WinFormAutomationDemo.exe
 C:\Users\senips\Source\FitnesseTutorial\build\WinFormAutomationDemo.pdb
-C:\Users\senips\Source\FitnesseTutorial\TestControlFixtures\WinFormAutomationDemo\obj\Debug\WinFormAutomationDemo.csprojResolveAssemblyReference.cache
 C:\Users\senips\Source\FitnesseTutorial\TestControlFixtures\WinFormAutomationDemo\obj\Debug\WinFormAutomationDemo.Form1.resources
 C:\Users\senips\Source\FitnesseTutorial\TestControlFixtures\WinFormAutomationDemo\obj\Debug\WinFormAutomationDemo.Properties.Resources.resources
 C:\Users\senips\Source\FitnesseTutorial\TestControlFixtures\WinFormAutomationDemo\obj\Debug\WinFormAutomationDemo.csproj.GenerateResource.Cache

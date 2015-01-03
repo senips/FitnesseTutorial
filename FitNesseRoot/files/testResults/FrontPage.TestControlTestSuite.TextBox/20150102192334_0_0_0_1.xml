@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+<testResults>
+  <FitNesseVersion>v20140901</FitNesseVersion>
+  <rootPath>FrontPage.TestControlTestSuite.TextBox</rootPath>
+    <result>
+    <counts>
+      <right>0</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>21</exceptions>
+    </counts>
+    <runTimeInMillis>652</runTimeInMillis>
+    <content>&lt;br/&gt;&lt;span class="meta"&gt;classpath: build\ClassLibrary1.dll&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;1.import package&lt;/h3&gt;
+&lt;br/&gt;&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Import&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;span class="pass"&gt;ClassLibrary1&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;h3&gt;2.launch the application&lt;/h3&gt;
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt;script&lt;/td&gt;
+		&lt;td colspan="2"&gt;Example Fixture &lt;span class="error"&gt;Could not find class ExampleFixture&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;current path&lt;/td&gt;
+		&lt;td&gt; &lt;span class="error"&gt;Method currentpath not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan="3"&gt;launch application &lt;span class="error"&gt;Method launchapplication not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;3. verify current values of textBox2 and textBox2&lt;/h3&gt;
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt;script&lt;/td&gt;
+		&lt;td colspan="2"&gt;Example Fixture &lt;span class="error"&gt;Could not find class ExampleFixture&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;the text box one value&lt;/td&gt;
+		&lt;td&gt; &lt;span class="error"&gt;Method thetextboxonevalue not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;the text box two value&lt;/td&gt;
+		&lt;td&gt; &lt;span class="error"&gt;Method thetextboxtwovalue not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;3.enter the value in both the text boxes&lt;/h3&gt;
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt;script&lt;/td&gt;
+		&lt;td&gt;Example Fixture &lt;span class="error"&gt;Could not find class ExampleFixture&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;the text box one value &lt;span class="error"&gt;Method thetextboxonevalue not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;Mother&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;the text box two value &lt;span class="error"&gt;Method thetextboxtwovalue not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+		&lt;td&gt;Teresa&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;4.verify values in both the text boxes&lt;/h3&gt;
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt;script&lt;/td&gt;
+		&lt;td colspan="2"&gt;Example Fixture &lt;span class="error"&gt;Could not find class ExampleFixture&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;the text box one value&lt;/td&gt;
+		&lt;td&gt;Mother &lt;span class="error"&gt;Method thetextboxonevalue not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;the text box two value&lt;/td&gt;
+		&lt;td&gt;Teresa &lt;span class="error"&gt;Method thetextboxtwovalue not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;h3&gt;5.button click demo&lt;/h3&gt;
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt;script&lt;/td&gt;
+		&lt;td colspan="2"&gt;Example Fixture &lt;span class="error"&gt;Could not find class ExampleFixture&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan="3"&gt;click the button &lt;span class="error"&gt;Method clickthebutton not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;the text box one value&lt;/td&gt;
+		&lt;td&gt;clicked &lt;span class="error"&gt;Method thetextboxonevalue not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+ &lt;br/&gt;&lt;br/&gt;&lt;h3&gt;6. click toolbar button&lt;/h3&gt;
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt;script&lt;/td&gt;
+		&lt;td colspan="2"&gt;Example Fixture &lt;span class="error"&gt;Could not find class ExampleFixture&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Select Tool Bar Button &lt;span class="error"&gt;Method selecttoolbarbutton not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+		&lt;td colspan="2"&gt;toolStripButton2&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;the text box one value&lt;/td&gt;
+		&lt;td&gt;clicked toolStripButton2 &lt;span class="error"&gt;Method thetextboxonevalue not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h3&gt;7. click Menu Option&lt;/h3&gt;
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt;script&lt;/td&gt;
+		&lt;td colspan="2"&gt;Example Fixture &lt;span class="error"&gt;Could not find class ExampleFixture&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Select Menu Item &lt;span class="error"&gt;Method selectmenuitem not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+		&lt;td colspan="2"&gt;File/New/CSharp File&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;check&lt;/td&gt;
+		&lt;td&gt;the text box one value&lt;/td&gt;
+		&lt;td&gt;clicked cSharpFileToolStripMenuItem &lt;span class="error"&gt;Method thetextboxonevalue not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+</content>
+    <relativePageName>TextBox</relativePageName>
+            <instructions>
+            <instructionResult>
+        <instruction>{id='import_0_0', instruction='import', path='ClassLibrary1'}</instruction>
+        <slimResult>pass(ClassLibrary1)</slimResult>
+                <expectation>
+                    <status>pass</status>
+                    <instructionId>import_0_0</instructionId>
+                    <col>0</col>
+                              <row>1</row>
+                    <type>ImportExpectation</type>
+                                        <evaluationMessage>ClassLibrary1</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_1_0', instruction='make', instanceName='scriptTableActor', className='ExampleFixture', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_1_0</instructionId>
+                              <type>ConstructionExpectation</type>
+                                        <evaluationMessage>Could not find class ExampleFixture</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_1_1', instruction='call', instanceName='scriptTableActor', methodName='currentPath', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_1_1</instructionId>
+                              <type>ReturnedValueExpectation</type>
+                                        <evaluationMessage>Method currentpath not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_1_2', instruction='call', instanceName='scriptTableActor', methodName='launchApplication', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_1_2</instructionId>
+                              <type>ScriptActionExpectation</type>
+                                        <evaluationMessage>Method launchapplication not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_2_0', instruction='make', instanceName='scriptTableActor', className='ExampleFixture', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_2_0</instructionId>
+                              <type>ConstructionExpectation</type>
+                                        <evaluationMessage>Could not find class ExampleFixture</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_2_1', instruction='call', instanceName='scriptTableActor', methodName='theTextBoxOneValue', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_2_1</instructionId>
+                              <type>ReturnedValueExpectation</type>
+                                        <evaluationMessage>Method thetextboxonevalue not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_2_2', instruction='call', instanceName='scriptTableActor', methodName='theTextBoxTwoValue', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_2_2</instructionId>
+                              <type>ReturnedValueExpectation</type>
+                                        <evaluationMessage>Method thetextboxtwovalue not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_3_0', instruction='make', instanceName='scriptTableActor', className='ExampleFixture', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_3_0</instructionId>
+                              <type>ConstructionExpectation</type>
+                                        <evaluationMessage>Could not find class ExampleFixture</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_3_1', instruction='call', instanceName='scriptTableActor', methodName='theTextBoxOneValue', args=[Mother]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_3_1</instructionId>
+                              <type>ScriptActionExpectation</type>
+                                        <evaluationMessage>Method thetextboxonevalue not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_3_2', instruction='call', instanceName='scriptTableActor', methodName='theTextBoxTwoValue', args=[Teresa]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_3_2</instructionId>
+                              <type>ScriptActionExpectation</type>
+                                        <evaluationMessage>Method thetextboxtwovalue not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_4_0', instruction='make', instanceName='scriptTableActor', className='ExampleFixture', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_4_0</instructionId>
+                              <type>ConstructionExpectation</type>
+                                        <evaluationMessage>Could not find class ExampleFixture</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_4_1', instruction='call', instanceName='scriptTableActor', methodName='theTextBoxOneValue', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_4_1</instructionId>
+                              <type>ReturnedValueExpectation</type>
+                                        <evaluationMessage>Method thetextboxonevalue not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_4_2', instruction='call', instanceName='scriptTableActor', methodName='theTextBoxTwoValue', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_4_2</instructionId>
+                              <type>ReturnedValueExpectation</type>
+                                        <evaluationMessage>Method thetextboxtwovalue not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_5_0', instruction='make', instanceName='scriptTableActor', className='ExampleFixture', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_5_0</instructionId>
+                              <type>ConstructionExpectation</type>
+                                        <evaluationMessage>Could not find class ExampleFixture</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_5_1', instruction='call', instanceName='scriptTableActor', methodName='clickTheButton', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_5_1</instructionId>
+                              <type>ScriptActionExpectation</type>
+                                        <evaluationMessage>Method clickthebutton not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_5_2', instruction='call', instanceName='scriptTableActor', methodName='theTextBoxOneValue', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_5_2</instructionId>
+                              <type>ReturnedValueExpectation</type>
+                                        <evaluationMessage>Method thetextboxonevalue not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_6_0', instruction='make', instanceName='scriptTableActor', className='ExampleFixture', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_6_0</instructionId>
+                              <type>ConstructionExpectation</type>
+                                        <evaluationMessage>Could not find class ExampleFixture</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_6_1', instruction='call', instanceName='scriptTableActor', methodName='SelectToolBarButton', args=[toolStripButton2]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_6_1</instructionId>
+                              <type>ScriptActionExpectation</type>
+                                        <evaluationMessage>Method selecttoolbarbutton not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_6_2', instruction='call', instanceName='scriptTableActor', methodName='theTextBoxOneValue', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_6_2</instructionId>
+                              <type>ReturnedValueExpectation</type>
+                                        <evaluationMessage>Method thetextboxonevalue not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_7_0', instruction='make', instanceName='scriptTableActor', className='ExampleFixture', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_7_0</instructionId>
+                              <type>ConstructionExpectation</type>
+                                        <evaluationMessage>Could not find class ExampleFixture</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_7_1', instruction='call', instanceName='scriptTableActor', methodName='SelectMenuItem', args=[File/New/CSharp File]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_7_1</instructionId>
+                              <type>ScriptActionExpectation</type>
+                                        <evaluationMessage>Method selectmenuitem not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='scriptTable_7_2', instruction='call', instanceName='scriptTableActor', methodName='theTextBoxOneValue', args=[]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <status>error</status>
+                    <instructionId>scriptTable_7_2</instructionId>
+                              <type>ReturnedValueExpectation</type>
+                                        <evaluationMessage>Method thetextboxonevalue not found in fitSharp.Slim.Operators.InvokeInstructionBase+NullInstance</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+          </instructions>
+      </result>
+      <finalCounts>
+    <right>0</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>1</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>652</totalRunTimeInMillis>
+  
+</testResults>
+

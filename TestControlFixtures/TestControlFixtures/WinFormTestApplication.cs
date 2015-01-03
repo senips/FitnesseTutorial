@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using TestControl.Net;
 using TestControl.Net.Interfaces;
- 
 
-namespace DemoFixtures
+
+namespace TestControlFixtures
 {
     public class WinFormTestApplication : ApplicationUnderTest
     {

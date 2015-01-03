@@ -1,0 +1,7 @@
+
+!3 3. verify current values of textBox2 and textBox2
+| script| Example Fixture |
+| check | the text box one value | |
+| click the button |
+|check | the text box one value | clicked |
+

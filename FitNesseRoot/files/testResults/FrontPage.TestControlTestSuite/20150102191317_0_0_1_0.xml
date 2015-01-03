@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20140901</FitNesseVersion>
+  <rootPath>FrontPage.TestControlTestSuite</rootPath>
+    <pageHistoryReference>
+    <name>FrontPage.TestControlTestSuite.TextBox</name>
+    <date>01/02/2015 19:13:17</date>
+    <pageHistoryLink>FrontPage.TestControlTestSuite.TextBox?pageHistory&amp;resultDate=20150102191317</pageHistoryLink>
+    <counts>
+      <right>0</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>182</runTimeInMillis>
+  </pageHistoryReference>
+    <finalCounts>
+    <right>0</right>
+    <wrong>0</wrong>
+    <ignores>1</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>891</totalRunTimeInMillis>
+
+</suiteResults>
+

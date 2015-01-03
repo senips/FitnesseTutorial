@@ -1,0 +1,17 @@
+!3 3. verify current values of textBox2 and textBox2
+|script| Example Fixture |
+|check| the text box one value | |
+|check| the text box two value | |
+
+
+!3 3.enter the value in both the text boxes
+|script| Example Fixture |
+| the text box one value | Mother |
+| the text box two value | Teresa |
+
+
+!3 4.verify values in both the text boxes
+|script| Example Fixture |
+|check| the text box one value | Mother |
+|check| the text box two value | Teresa  |
+

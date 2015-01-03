@@ -11,7 +11,7 @@ using TestControl.Net.StdControls;
 
 
 
-namespace DemoFixtures
+namespace TestControlFixtures
 {
     public class ExampleFixture
     {
@@ -72,6 +72,7 @@ namespace DemoFixtures
         {
             var textBox = new TextBoxControl();
             textBox.SystemUnderTest(new ControlLocatorDef<FindControl>(
+                                                ()=> new Wait(300),
                                                 () => new FindWindow("Demo Form"),
                                                 () => new FindByAutomationId("textBox1")
                     ));
