@@ -12,7 +12,7 @@ Test Control.Net  - '' is a light weight automation framework for Windows Native
 ### How to run the examples?
 ***
 
-Download this repo entirely as a zip 
-Extract to your local folder
-Just run the file called StartFitnesse.bat
-Assumption: you have Java Run time or JDK installed on your machine
+* Download this repo entirely as a zip 
+* Extract to your local folder
+* Just run the file called StartFitnesse.bat
+ ** Assumption: you have Java Run time or JDK installed on your machine
