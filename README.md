@@ -6,8 +6,5 @@ Test Control.Net  - '' is a light weight automation framework for Windows Native
   * [Api Documentation](http://testcontrol.org/Help/html/R_Project_Documentation.htm)
   * [Download](http://testcontrol.codeplex.com/releases)
 
-Other resources
-  * [Download fitsharp for .NET](https://github.com/jediwhale/fitsharp/downloads)
-
 
 =======
