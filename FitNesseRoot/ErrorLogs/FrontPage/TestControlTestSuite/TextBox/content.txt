@@ -1,8 +1,0 @@
-
-!3 !-slim:.\fitsharp40\Runner.exe-!
-|'''Date: '''| 7:27:49 PM (EST) on Friday, January 2, 2015 |
-|'''Test Page: '''|.FrontPage.TestControlTestSuite.TextBox|
-|'''Command: '''| !-.\fitsharp40\Runner.exe -r fitSharp.Slim.Service.Runner build\TestControlFixtures.dll 8086-! |
-|'''Exit code: '''| 0 |
-|'''Time elapsed: '''| 13.287 seconds |
-
