@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20140901</FitNesseVersion>
+  <rootPath>FrontPage.TestControlTestSuite.StandardControlsTestSuite</rootPath>
+    <pageHistoryReference>
+    <name>FrontPage.TestControlTestSuite.SuiteSetUp</name>
+    <date>01/02/2015 21:27:20</date>
+    <pageHistoryLink>FrontPage.TestControlTestSuite.SuiteSetUp?pageHistory&amp;resultDate=20150102212720</pageHistoryLink>
+    <counts>
+      <right>0</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>102</runTimeInMillis>
+  </pageHistoryReference>
+    <pageHistoryReference>
+    <name>FrontPage.TestControlTestSuite.StandardControlsTestSuite.Example01TextBox</name>
+    <date>01/02/2015 21:27:21</date>
+    <pageHistoryLink>FrontPage.TestControlTestSuite.StandardControlsTestSuite.Example01TextBox?pageHistory&amp;resultDate=20150102212721</pageHistoryLink>
+    <counts>
+      <right>4</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>8639</runTimeInMillis>
+  </pageHistoryReference>
+    <pageHistoryReference>
+    <name>FrontPage.TestControlTestSuite.StandardControlsTestSuite.Example02ButtonControl</name>
+    <date>01/02/2015 21:27:29</date>
+    <pageHistoryLink>FrontPage.TestControlTestSuite.StandardControlsTestSuite.Example02ButtonControl?pageHistory&amp;resultDate=20150102212729</pageHistoryLink>
+    <counts>
+      <right>2</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>5152</runTimeInMillis>
+  </pageHistoryReference>
+    <pageHistoryReference>
+    <name>FrontPage.TestControlTestSuite.StandardControlsTestSuite.Example03MenuAndToolBar</name>
+    <date>01/02/2015 21:27:34</date>
+    <pageHistoryLink>FrontPage.TestControlTestSuite.StandardControlsTestSuite.Example03MenuAndToolBar?pageHistory&amp;resultDate=20150102212734</pageHistoryLink>
+    <counts>
+      <right>1</right>
+      <wrong>1</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>8237</runTimeInMillis>
+  </pageHistoryReference>
+    <finalCounts>
+    <right>3</right>
+    <wrong>1</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>23333</totalRunTimeInMillis>
+
+</suiteResults>
+

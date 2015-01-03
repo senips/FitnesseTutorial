@@ -1,6 +1,10 @@
+'''Steps'''
+ * Make sure text box one is empty first 
+ * and then click the button
+ * verify text box one value = clicked
 
-!3 3. verify current values of textBox2 and textBox2
-| script| Example Fixture |
+
+| script| Button Fixture |
 | check | the text box one value | |
 | click the button |
 |check | the text box one value | clicked |

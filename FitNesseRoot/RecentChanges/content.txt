@@ -1,9 +1,10 @@
+|FrontPage.TestControlTestSuite.StandardControlsTestSuite.Example03MenuAndToolBar||21:13:54 Fri, Jan 02, 2015|
+|FrontPage.TestControlTestSuite.StandardControlsTestSuite.Example02ButtonControl||21:09:43 Fri, Jan 02, 2015|
+|FrontPage.TestControlTestSuite.StandardControlsTestSuite.Example01TextBox||21:05:41 Fri, Jan 02, 2015|
+|FrontPage.TestControlTestSuite.SetUp||20:46:35 Fri, Jan 02, 2015|
 |FrontPage||20:04:45 Fri, Jan 02, 2015|
-|FrontPage.TestControlTestSuite.StandardControlsTestSuite.Example02ButtonControl||19:38:11 Fri, Jan 02, 2015|
-|FrontPage.TestControlTestSuite.StandardControlsTestSuite.Example01TextBox||19:37:08 Fri, Jan 02, 2015|
 |FrontPage.TestControlTestSuite.TextBoxExample||19:35:03 Fri, Jan 02, 2015|
 |FrontPage.TestControlTestSuite.StandardControlsTestSuite||19:34:52 Fri, Jan 02, 2015|
-|FrontPage.TestControlTestSuite.SetUp||19:33:30 Fri, Jan 02, 2015|
 |FrontPage.TestControlTestSuite.ButtonExample||19:33:21 Fri, Jan 02, 2015|
 |FrontPage.TestControlTestSuite.SuiteSetup||19:32:35 Fri, Jan 02, 2015|
 |FrontPage.TestControlTestSuite||19:32:30 Fri, Jan 02, 2015|

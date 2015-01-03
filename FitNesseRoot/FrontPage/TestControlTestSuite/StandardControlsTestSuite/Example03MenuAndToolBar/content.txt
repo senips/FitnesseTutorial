@@ -1,0 +1,15 @@
+!3 Scenario-1 - Tool bar button demo
+-----
+
+|script| Menu And Tool Bar Fixture |
+| Select Tool Bar Button | toolStripButton2 |
+|check| the text box one value | clicked toolStripButton2|
+
+
+
+!3 Scenario-2 - Main Menu demo
+-------
+
+|script| Menu And Tool Bar Fixture |
+| Select Menu Item | File/New/CSharp File |
+|check| the text box one value | clicked cSharpFileToolStripMenuItem |
