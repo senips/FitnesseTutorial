@@ -8,11 +8,11 @@
 
 |script| Tree View Fixture |
 | Select Node | Node14 |
-| click |
+| double click|
 | check | selected node | Node14 |
 |check| the text box one value | Node14-double clicked! |
 | Select Node | Node17 |
-| click |
+| double click|
 |check| the text box one value | Node17-double clicked! |
  
 !3 get all visible nodes
@@ -26,5 +26,5 @@
 | Select Node | Last Node |
 | Wait | 1|
 | check | selected node | Last Node |
-| click |
+| double click|
 |check| the text box one value |Last Node-double clicked! |

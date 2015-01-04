@@ -49,9 +49,9 @@ namespace TestControlFixtures
             }
         }
 
-        public void Click()
+        public void DoubleClick()
         {
-            TreeViewOne.Click();
+            TreeViewOne.DblClick();
         }
 
 
