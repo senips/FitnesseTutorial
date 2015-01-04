@@ -69,6 +69,10 @@
             System.Windows.Forms.TreeNode treeNode25 = new System.Windows.Forms.TreeNode("Node24");
             System.Windows.Forms.TreeNode treeNode26 = new System.Windows.Forms.TreeNode("Node25");
             System.Windows.Forms.TreeNode treeNode27 = new System.Windows.Forms.TreeNode("Node26");
+            System.Windows.Forms.TreeNode treeNode28 = new System.Windows.Forms.TreeNode("Node0");
+            System.Windows.Forms.TreeNode treeNode29 = new System.Windows.Forms.TreeNode("Node1");
+            System.Windows.Forms.TreeNode treeNode30 = new System.Windows.Forms.TreeNode("Node2");
+            System.Windows.Forms.TreeNode treeNode31 = new System.Windows.Forms.TreeNode("Last Node");
             this.buttonOk = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
@@ -146,7 +150,7 @@
             this.toolStripButton3});
             this.toolStrip1.Location = new System.Drawing.Point(0, 24);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(802, 25);
+            this.toolStrip1.Size = new System.Drawing.Size(724, 25);
             this.toolStrip1.TabIndex = 5;
             this.toolStrip1.Text = "toolStrip1";
             // 
@@ -184,7 +188,7 @@
             // 
             this.toolStrip2.Location = new System.Drawing.Point(0, 49);
             this.toolStrip2.Name = "toolStrip2";
-            this.toolStrip2.Size = new System.Drawing.Size(802, 25);
+            this.toolStrip2.Size = new System.Drawing.Size(724, 25);
             this.toolStrip2.TabIndex = 6;
             this.toolStrip2.Text = "toolStrip2";
             // 
@@ -194,7 +198,7 @@
             this.fileToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(802, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(724, 24);
             this.menuStrip1.TabIndex = 7;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -279,7 +283,7 @@
             // 
             // treeView1
             // 
-            this.treeView1.Location = new System.Drawing.Point(0, 77);
+            this.treeView1.Location = new System.Drawing.Point(0, 128);
             this.treeView1.Name = "treeView1";
             treeNode1.Name = "Node4";
             treeNode1.Text = "Node4";
@@ -335,6 +339,14 @@
             treeNode26.Text = "Node25";
             treeNode27.Name = "Node26";
             treeNode27.Text = "Node26";
+            treeNode28.Name = "Node0";
+            treeNode28.Text = "Node0";
+            treeNode29.Name = "Node1";
+            treeNode29.Text = "Node1";
+            treeNode30.Name = "Node2";
+            treeNode30.Text = "Node2";
+            treeNode31.Name = "Node3";
+            treeNode31.Text = "Last Node";
             this.treeView1.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
             treeNode12,
             treeNode13,
@@ -349,8 +361,12 @@
             treeNode24,
             treeNode25,
             treeNode26,
-            treeNode27});
-            this.treeView1.Size = new System.Drawing.Size(117, 147);
+            treeNode27,
+            treeNode28,
+            treeNode29,
+            treeNode30,
+            treeNode31});
+            this.treeView1.Size = new System.Drawing.Size(117, 327);
             this.treeView1.TabIndex = 8;
             this.treeView1.DoubleClick += new System.EventHandler(this.treeView1_DoubleClick);
             // 
@@ -358,7 +374,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(802, 372);
+            this.AutoScroll = true;
+            this.ClientSize = new System.Drawing.Size(741, 362);
             this.Controls.Add(this.treeView1);
             this.Controls.Add(this.toolStrip2);
             this.Controls.Add(this.toolStrip1);

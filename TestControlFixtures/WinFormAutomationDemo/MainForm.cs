@@ -45,7 +45,7 @@ namespace WinFormAutomationDemo
 
         private void treeView1_DoubleClick(object sender, EventArgs e)
         {
-            textBox1.Text = treeView1.SelectedNode.Name + "-double clicked!";
+            textBox1.Text = treeView1.SelectedNode.Text + "-double clicked!";
         }
 
  

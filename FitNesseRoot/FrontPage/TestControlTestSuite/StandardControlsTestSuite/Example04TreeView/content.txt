@@ -18,4 +18,13 @@
 !3 get all visible nodes
 
 |script| Tree View Fixture |
-|check|visible nodes|Node0,Node12,Node13,Node14,Node17,Node15,Node18,Node19,Node20,Node21,Node22,Node23,Node24,Node25,Node26|
+|check|visible nodes|Node0,Node12,Node13,Node14,Node17,Node15,Node18,Node19,Node20,Node21,Node22,Node23,Node24,Node25,Node26,Node0,Node1,Node2,Last Node|
+
+
+!3 tree view on scroll-able window
+|script| Tree View Fixture |
+| Select Node | Last Node |
+| Wait | 1|
+| check | selected node | Last Node |
+| click |
+|check| the text box one value |Last Node-double clicked! |
