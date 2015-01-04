@@ -52,6 +52,7 @@
     <Compile Include="BaseFixture.cs" />
     <Compile Include="MenuAndToolBarFixture.cs" />
     <Compile Include="ButtonFixture.cs" />
+    <Compile Include="TreeViewFixture.cs" />
     <Compile Include="TextBoxFixture.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WinFormTestApplication.cs" />

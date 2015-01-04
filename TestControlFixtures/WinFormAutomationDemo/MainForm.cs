@@ -20,6 +20,7 @@ namespace WinFormAutomationDemo
         private void buttonOk_Click(object sender, EventArgs e)
         {
             textBox1.Text = "clicked";
+            treeView1.SelectedNode = treeView1.Nodes[13];
         }
 
         private void toolStripButton1_Click(object sender, EventArgs e)
@@ -40,6 +41,11 @@ namespace WinFormAutomationDemo
         private void cSharpFileToolStripMenuItem_Click(object sender, EventArgs e)
         {
             textBox1.Text = "clicked cSharpFileToolStripMenuItem";
+        }
+
+        private void treeView1_DoubleClick(object sender, EventArgs e)
+        {
+            textBox1.Text = treeView1.SelectedNode.Name + "-double clicked!";
         }
 
  

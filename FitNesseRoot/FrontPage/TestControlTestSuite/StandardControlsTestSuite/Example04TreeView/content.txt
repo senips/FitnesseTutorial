@@ -1,0 +1,21 @@
+!3 Select a node by name 
+
+|script| Tree View Fixture |
+| Select Node | Node24 |
+| check | selected node| Node24 |
+
+!3 select a node and double click
+
+|script| Tree View Fixture |
+| Select Node | Node14 |
+| click |
+| check | selected node | Node14 |
+|check| the text box one value | Node14-double clicked! |
+| Select Node | Node17 |
+| click |
+|check| the text box one value | Node17-double clicked! |
+ 
+!3 get all visible nodes
+
+|script| Tree View Fixture |
+|check|visible nodes|Node0,Node12,Node13,Node14,Node17,Node15,Node18,Node19,Node20,Node21,Node22,Node23,Node24,Node25,Node26|
