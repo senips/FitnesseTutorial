@@ -22,28 +22,42 @@ namespace TestControlFixtures
         }
 
         public void SelectToolBarButton(String toolbarButtonCaption)
-        {            
-            var button = new ButtonControl();
-            button.SystemUnderTest(new ControlLocatorDef<FindControl>(
-                                                () => new FindWindow(APPLICATION_CAPTION),
-                                                () => new FindByAutomationId("toolStrip1"),
-                                                () => new ClickNonWindowControlByCaption(new[] { toolbarButtonCaption })                                               
-                    ));
+        {
+            ToolBar1.Click(toolbarButtonCaption.Split('/'));
         }
 
         public void SelectMenuItem(String caption)
         {
- 
-            var button = new ButtonControl();
-            button.SystemUnderTest(new ControlLocatorDef<FindControl>(
-                                                () => new FindWindow(APPLICATION_CAPTION),
-                                                () => new FindByAutomationId("menuStrip1"),
-                                                () => new ClickNonWindowControlByCaption(caption.Split('/'))
-                    ));
+
+            MenuStrip1.Click(caption.Split('/'));
         }
 
 
- 
+        public MenuStrip MenuStrip1
+        {
+            get
+            {
+                var menu = new MenuStrip();
+                menu.SystemUnderTest(new ControlLocatorDef<FindControl>(
+                                                    () => new FindWindow(APPLICATION_CAPTION),
+                                                    () => new FindByAutomationId("menuStrip1")
+                        ));
+                return menu;
+            }
+        }
+
+        public MenuStrip ToolBar1
+        {
+            get
+            {
+                var menu = new MenuStrip();
+                menu.SystemUnderTest(new ControlLocatorDef<FindControl>(
+                                                    () => new FindWindow(APPLICATION_CAPTION),
+                                                    () => new FindByAutomationId("toolStrip1")
+                        ));
+                return menu;
+            }
+        }
 
     }
 }
