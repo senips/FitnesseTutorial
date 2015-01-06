@@ -1,0 +1,4 @@
+|script|!-TestControl.Net.ApplicationUnderTest-!|C:\Windows\System32\|calc.exe|
+| run  | true |
+|ensure| Wait For | Calculator |Caption | 10 |
+|ensure|is running|

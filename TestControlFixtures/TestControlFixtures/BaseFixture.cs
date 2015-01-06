@@ -13,6 +13,7 @@ namespace TestControlFixtures
     {
         private IApplicationUnderTest _testApp;
         public static String APPLICATION_CAPTION = "Test Control Test Suite  Application";
+        public static String APPLICATION_ID = "MainForm";
         public Object FixtureUnderTest;
         public IApplicationUnderTest AppUnderTest
         {

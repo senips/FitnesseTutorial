@@ -44,7 +44,7 @@ namespace TestControlFixtures
         {
             var textBox = new TextBoxControl();
             textBox.SystemUnderTest(new ControlLocatorDef<FindControl>(
-                                                () => new FindWindow(APPLICATION_CAPTION),
+                                                () => new FindByAutomationId(APPLICATION_ID, true),
                                                 () => new FindByAutomationId("textBox1")
                     ));
             return textBox;
@@ -54,7 +54,7 @@ namespace TestControlFixtures
         {
             var textBox = new TextBoxControl();
             textBox.SystemUnderTest(new ControlLocatorDef<FindControl>(
-                                                () => new FindWindow(APPLICATION_CAPTION),
+                                                () => new FindByAutomationId(APPLICATION_ID, true),
                                                 () => new FindByAutomationId("textBox2")
                     ));
             return textBox;

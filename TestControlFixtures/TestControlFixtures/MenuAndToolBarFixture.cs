@@ -39,7 +39,7 @@ namespace TestControlFixtures
             {
                 var menu = new MenuStrip();
                 menu.SystemUnderTest(new ControlLocatorDef<FindControl>(
-                                                    () => new FindWindow(APPLICATION_CAPTION),
+                                                    () => new FindByAutomationId(APPLICATION_ID, true),
                                                     () => new FindByAutomationId("menuStrip1")
                         ));
                 return menu;
@@ -52,7 +52,7 @@ namespace TestControlFixtures
             {
                 var menu = new MenuStrip();
                 menu.SystemUnderTest(new ControlLocatorDef<FindControl>(
-                                                    () => new FindWindow(APPLICATION_CAPTION),
+                                                    () => new FindByAutomationId(APPLICATION_ID, true),
                                                     () => new FindByAutomationId("toolStrip1")
                         ));
                 return menu;

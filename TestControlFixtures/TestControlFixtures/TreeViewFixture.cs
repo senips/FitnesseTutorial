@@ -28,7 +28,7 @@ namespace TestControlFixtures
                 {
                     _treeViewOne = new TreeViewControl();
                     _treeViewOne.SystemUnderTest(new ControlLocatorDef<FindControl>(
-                                              () => new FindWindow(APPLICATION_CAPTION),
+                                              () => new FindByAutomationId(APPLICATION_ID, true),
                                               () => new FindByAutomationId("treeView1")
                         ));
                 }
