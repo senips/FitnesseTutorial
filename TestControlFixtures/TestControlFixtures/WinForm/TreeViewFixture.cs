@@ -9,7 +9,7 @@ using TestControl.Net.Interfaces;
 using TestControl.Net.Locators;
 using TestControl.Net.StdControls;
 
-namespace TestControlFixtures
+namespace TestControlFixtures.WinForm
 {
     public class TreeViewFixture : BaseFixture
     {

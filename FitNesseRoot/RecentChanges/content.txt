@@ -1,4 +1,5 @@
-|FrontPage.TestControlTestSuite.CalculatorTestSuite.AddNumbers||24:24:20 Tue, Jan 06, 2015|
+|FrontPage.TestControlTestSuite.StandardControlsTestSuite.SuiteSetup||22:48:06 Thu, Jan 08, 2015|
+|FrontPage.TestControlTestSuite.CalculatorTestSuite.AddNumbers||07:28:07 Wed, Jan 07, 2015|
 |FrontPage.TestControlTestSuite.CalculatorTestSuite.SuiteSetup||20:38:34 Mon, Jan 05, 2015|
 |FrontPage.TestControlTestSuite.CalculatorTestSuite.SetUp||20:36:20 Mon, Jan 05, 2015|
 |FrontPage.TestControlTestSuite.CalculatorTestSuite||19:48:39 Mon, Jan 05, 2015|

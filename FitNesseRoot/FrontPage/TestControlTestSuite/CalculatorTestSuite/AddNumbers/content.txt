@@ -7,23 +7,21 @@
 
 |script|Control Locator Def Repo| result box |
 |find using | app |
-|Find By Automation|160|Id|false|
+|Find By Automation|150|Id|false|
 
 |script|window |
-
-|scenario|run all|
 |system under test from repo| app |
 |ensure|is window visible|
 |show|caption|
-|button control|
+
+
+|script|button control|
 |system under test from repo| number-4 |
 |click;|false|0|0|
 |click;|false|0|0|
 |click;|false|0|0|
 |click;|false|0|0|
-
-|script|
-|run all|
+ 
 
 |script| text box control|
 |system under test from repo| result box |

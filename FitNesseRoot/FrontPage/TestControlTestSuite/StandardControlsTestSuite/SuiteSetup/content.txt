@@ -1,2 +1,2 @@
 |Import|
-|!-TestControlFixtures-!|
+|!-TestControlFixtures.WinForm-!|

@@ -5,9 +5,10 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading;
+using TestControl.Net;
 using TestControl.Net.Interfaces;
 
-namespace TestControlFixtures
+namespace TestControlFixtures.WinForm
 {
     public class BaseFixture : DomainAdapter
     {
@@ -21,7 +22,7 @@ namespace TestControlFixtures
             {
                 if (_testApp == null)
                 {
-                    _testApp = new WinFormTestApplication(CurrentPath, @"WinFormAutomationDemo.Exe");
+                    _testApp = new ApplicationUnderTest(CurrentPath, @"WinFormAutomationDemo.Exe");
                    
                 }
                 return _testApp;

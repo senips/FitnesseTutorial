@@ -11,14 +11,14 @@ using TestControl.Net.StdControls;
 
 
 
-namespace TestControlFixtures
+namespace TestControlFixtures.WindowsNativeApp
 {
-    public class ButtonFixture : BaseFixture
+    public class CalculatorFixture
     {
-        
-        public ButtonFixture()
+
+        public CalculatorFixture()
         {
-            FixtureUnderTest = new TextBoxFixture();
+            
         }
 
         public void ClickTheButton()
@@ -30,7 +30,7 @@ namespace TestControlFixtures
         {
             var button = new ButtonControl();
             button.SystemUnderTest(new ControlLocatorDef<FindControl>(
-                                                () => new FindWindow(APPLICATION_CAPTION),
+                                                () => new FindWindow(""),
                                                 () => new FindByAutomationId("buttonOk")
                     ));
             return button;

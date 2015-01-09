@@ -11,7 +11,7 @@ using TestControl.Net.StdControls;
 
 
 
-namespace TestControlFixtures
+namespace TestControlFixtures.WinForm
 {
     public class MenuAndToolBarFixture : BaseFixture
     {

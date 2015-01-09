@@ -49,13 +49,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BaseFixture.cs" />
-    <Compile Include="MenuAndToolBarFixture.cs" />
-    <Compile Include="ButtonFixture.cs" />
-    <Compile Include="TreeViewFixture.cs" />
-    <Compile Include="TextBoxFixture.cs" />
+    <Compile Include="WinForm\BaseFixture.cs" />
+    <Compile Include="WindowsNativeApp\CalculatorFixture.cs" />
+    <Compile Include="WinForm\MenuAndToolBarFixture.cs" />
+    <Compile Include="WinForm\ButtonFixture.cs" />
+    <Compile Include="WinForm\TreeViewFixture.cs" />
+    <Compile Include="WinForm\TextBoxFixture.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="WinFormTestApplication.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
