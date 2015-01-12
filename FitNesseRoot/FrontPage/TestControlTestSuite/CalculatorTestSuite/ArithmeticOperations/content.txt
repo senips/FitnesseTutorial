@@ -1,0 +1,11 @@
+| script | window |
+| system under test from repo | app |
+| ensure | is window visible |
+| show | caption |
+
+!| calculator fixture |
+| enter value | operation | enter value | result? |
+| 12 | + | 9 | 21.|
+| 1 | - | 1 | 0.|
+| 125 | / | 4| 31.25|
+| 172 | * | 21 | 3612.|

@@ -1,7 +1,9 @@
+|FrontPage.TestControlTestSuite.CalculatorTestSuite.AddNumbers||22:49:04 Sun, Jan 11, 2015|
+|FrontPage.TestControlTestSuite.CalculatorTestSuite.SuiteSetUp||22:10:29 Sun, Jan 11, 2015|
+|FrontPage.TestControlTestSuite.CalculatorTestSuite.SetUp||22:04:55 Sun, Jan 11, 2015|
+|FrontPage.TestControlTestSuite.CalculatorTestSuite.SuiteSetup||22:01:47 Sun, Jan 11, 2015|
+|FrontPage.TestControlTestSuite||21:56:48 Sun, Jan 11, 2015|
 |FrontPage.TestControlTestSuite.StandardControlsTestSuite.SuiteSetup||22:48:06 Thu, Jan 08, 2015|
-|FrontPage.TestControlTestSuite.CalculatorTestSuite.AddNumbers||07:28:07 Wed, Jan 07, 2015|
-|FrontPage.TestControlTestSuite.CalculatorTestSuite.SuiteSetup||20:38:34 Mon, Jan 05, 2015|
-|FrontPage.TestControlTestSuite.CalculatorTestSuite.SetUp||20:36:20 Mon, Jan 05, 2015|
 |FrontPage.TestControlTestSuite.CalculatorTestSuite||19:48:39 Mon, Jan 05, 2015|
 |FrontPage.TestControlTestSuite.StandardControlsTestSuite.Example04TreeView||17:30:07 Sun, Jan 04, 2015|
 |FrontPage.TestControlTestSuite.StandardControlsTestSuite.Example03MenuAndToolBar||21:13:54 Fri, Jan 02, 2015|
@@ -13,5 +15,4 @@
 |FrontPage.TestControlTestSuite.StandardControlsTestSuite||19:34:52 Fri, Jan 02, 2015|
 |FrontPage.TestControlTestSuite.ButtonExample||19:33:21 Fri, Jan 02, 2015|
 |FrontPage.TestControlTestSuite.SuiteSetup||19:32:35 Fri, Jan 02, 2015|
-|FrontPage.TestControlTestSuite||19:32:30 Fri, Jan 02, 2015|
 |FrontPage.TestControlTestSuite.TextBox||19:25:06 Fri, Jan 02, 2015|

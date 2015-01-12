@@ -1,6 +1,7 @@
 !define TEST_SYSTEM {slim}
 !define COMMAND_PATTERN {%m -r fitSharp.Slim.Service.Runner %p}
 !define TEST_RUNNER {.\fitsharp40\Runner.exe}
+!path build\TestControl.Net.dll
 !path build\TestControlFixtures.dll
 
 

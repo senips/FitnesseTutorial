@@ -2,3 +2,14 @@
 |!-TestControlFixtures-!|
 |!-TestControl.Net-!|
 |!-TestControl.Net.StdControls-!|
+|!-TestControlFixtures.WindowsNativeApp-!|
+
+
+|script|Control Locator Def Repo| app |
+|find by name| Calculator ||true|
+ 
+|script|Control Locator Def Repo| result box |
+|find using | app |
+|Find By Automation Id|403||false|
+
+ 
