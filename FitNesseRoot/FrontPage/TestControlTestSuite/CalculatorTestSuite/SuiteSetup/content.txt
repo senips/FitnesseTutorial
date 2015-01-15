@@ -3,7 +3,7 @@
 |!-TestControl.Net-!|
 |!-TestControl.Net.StdControls-!|
 |!-TestControlFixtures.WindowsNativeApp-!|
-
+|!-WinFormAutomationDemo-!|
 
 |script|Control Locator Def Repo| app |
 |find by name| Calculator ||true|

@@ -1,8 +1,8 @@
+|FrontPage.TestControlTestSuite||23:05:35 Tue, Jan 13, 2015|
+|FrontPage.TestControlTestSuite.CalculatorTestSuite.SuiteSetUp||22:57:29 Tue, Jan 13, 2015|
+|FrontPage.TestControlTestSuite.CalculatorTestSuite.SuiteSetup||22:57:10 Tue, Jan 13, 2015|
 |FrontPage.TestControlTestSuite.CalculatorTestSuite.AddNumbers||22:49:04 Sun, Jan 11, 2015|
-|FrontPage.TestControlTestSuite.CalculatorTestSuite.SuiteSetUp||22:10:29 Sun, Jan 11, 2015|
 |FrontPage.TestControlTestSuite.CalculatorTestSuite.SetUp||22:04:55 Sun, Jan 11, 2015|
-|FrontPage.TestControlTestSuite.CalculatorTestSuite.SuiteSetup||22:01:47 Sun, Jan 11, 2015|
-|FrontPage.TestControlTestSuite||21:56:48 Sun, Jan 11, 2015|
 |FrontPage.TestControlTestSuite.StandardControlsTestSuite.SuiteSetup||22:48:06 Thu, Jan 08, 2015|
 |FrontPage.TestControlTestSuite.CalculatorTestSuite||19:48:39 Mon, Jan 05, 2015|
 |FrontPage.TestControlTestSuite.StandardControlsTestSuite.Example04TreeView||17:30:07 Sun, Jan 04, 2015|

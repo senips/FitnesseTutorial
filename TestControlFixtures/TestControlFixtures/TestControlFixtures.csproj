@@ -41,11 +41,9 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
-    <Reference Include="TestControl.Core">
-      <HintPath>..\..\TestControl.net\TestControl.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="TestControl.Net">
-      <HintPath>..\..\TestControl.net\TestControl.Net.dll</HintPath>
+    <Reference Include="TestControl.Net, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\TestControl.net\x64\TestControl.Net.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
